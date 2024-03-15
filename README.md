@@ -54,7 +54,7 @@ The API provides endpoints for calculating the price of food delivery. You can u
 
 ```json
 {
-    "total_price": 20.5
+    "total_price": 3075
 }
 ```
 
