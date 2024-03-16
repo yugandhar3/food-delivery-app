@@ -57,7 +57,11 @@ The API provides endpoints for calculating the price of food delivery. You can u
     "total_price": 3075
 }
 ```
+### To access application click below link:-
 
+```
+https://food-delivery-app-7gjx.onrender.com
+```
 ## API Documentation
 
 Swagger API documentation is available at `/api-docs` endpoint. You can access it in your browser to view and interact with the API endpoints.
